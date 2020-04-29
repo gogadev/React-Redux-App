@@ -1,0 +1,36 @@
+.user-list {
+  width: 90vw;
+  display: grid;
+  justify-content: center;
+  justify-items: center;
+  margin: 0.5rem auto;
+  text-align: center;
+}
+
+.list {
+  width: 90vw;
+  background: #ededed;
+  letter-spacing: 3px;
+  padding: 0.8rem;
+  outline: 1px dotted grey;
+  outline-offset: -8px;
+  border: 1px solid grey;
+  color: rgba(0, 0, 0, 0.6);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.title {
+  width: 90vw;
+  margin: 0.3rem auto;
+  background: #f6f6f6;
+  border: 1px solid lightgray;
+  color: grey;
+  text-shadow: 1px 1px black;
+  letter-spacing: 4px;
+}
+
+.img {
+  margin: 0.5rem auto;
+  width: 10%;
+}

@@ -1,0 +1,16 @@
+.select {
+  font-size: 4rem;
+  margin: 2.5rem auto;
+  color: grey;
+  text-transform: capitalize;
+  word-spacing: 0.5rem;
+}
+
+.subtitle {
+  width: 90vw;
+  color: grey;
+  letter-spacing: 2px;
+  border: 1px dotted grey;
+  margin: 0.5rem auto;
+  font-size: 1.1rem;
+}
